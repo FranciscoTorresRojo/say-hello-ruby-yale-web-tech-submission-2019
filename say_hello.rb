@@ -1,2 +1,2 @@
-def say_hello("Francisco")
+def say_hello("francisco")
 end
